@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-O2",
+      "-o",
+      "vulkan",
+      "main.cpp"
+    ],
+    "directory": "/home/robertos/games/gamedev/vulkan",
+    "file": "/home/robertos/games/gamedev/vulkan/main.cpp",
+    "output": "/home/robertos/games/gamedev/vulkan/vulkan"
+  }
+]
